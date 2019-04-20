@@ -1,2 +1,4 @@
 # hello-world
-My first repository
+
+Hi,
+so i'm ... and looking for programmer super power :-)
